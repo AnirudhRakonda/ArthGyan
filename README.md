@@ -25,7 +25,7 @@ We are proud to present 'ArthGyan,' a dynamic platform designed to bridge the va
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/ArthGyan.git
+    git clone https://github.com/AnirudhRakonda/ArthGyan.git
     ```
 2. **Navigate to the project directory:**
     ```bash
